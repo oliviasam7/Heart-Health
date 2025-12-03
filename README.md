@@ -3,7 +3,7 @@
 ````markdown
 #  Heart Health Navigator: AI-Powered Heart Disease Prediction Web App
 
-An interactive web application built with **Streamlit** that uses a **Random Forest** machine learning model to predict the risk of heart disease based on key medical attributes.
+An interactive web application built with **Streamlit** that uses a **Logistic Regression"" and **Random Forest** machine learning model to predict the risk of heart disease based on key medical attributes.
 
 ---
 
@@ -14,7 +14,6 @@ The **Heart Health Navigator** is a comprehensive, user-friendly tool designed t
 - Secure **user authentication**.
 - Educational sections with **interactive data visualizations**.
 - An AI-powered **prediction tool**.
-- A downloadable **summary report** for each prediction.
 
 This project demonstrates a complete **end-to-end machine learning workflow**, from model training to deployment as an interactive web application.
 
@@ -26,7 +25,6 @@ This project demonstrates a complete **end-to-end machine learning workflow**, f
 - **Multi-Page Interface:** Easy navigation via top menu bar.
 - **Interactive Prediction Tool:** Input 13 key medical parameters for accurate risk assessment.
 - **Data Visualization:** Explore heart disease datasets using interactive charts with Plotly.
-- **Downloadable Reports:** Download prediction summaries as PDF reports.
 - **Session History:** Keep a log of recent predictions and download as CSV.
 
 ---
@@ -105,15 +103,6 @@ The app will open in your default web browser.
 └── requirements.txt
 ```
 
----
-
-## 👤 Author
-
-**Mannaswini P A**
-
-* 📧 Email: [iammannaswini@gmail.com](mailto:iammannaswini@gmail.com)
-* LinkedIn: [linkedin.com/in/mannaswini-p-a](https://www.linkedin.com/in/mannaswini-p-a-7s7r7)
-* GitHub: [@imannaswini](https://github.com/imannaswini)
 
 ---
 
